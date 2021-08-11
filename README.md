@@ -3,7 +3,7 @@
     <configSections>
         <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
             <section name="lePanel.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
-        </sectionGroup>
+        </sectionGroup>..
     </configSections>
     <userSettings>
         <lePanel.Properties.Settings>
@@ -32,4 +32,4 @@
     </assemblyBinding>
   </runtime>
 </configuration>
-
+--silas--
